@@ -1,0 +1,2 @@
+# Bank-Automation-C-Language
+It is written in the c language. this is the homework of the first year students of the software engineering department.
